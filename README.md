@@ -20,10 +20,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilinho_0135)
 
 ## 👩🏻‍💻 Tech Stack 
-| Habilities            | ![habilities](https://skillicons.dev/icons?i=html,css,js,react,next,python,supabase,mysql,linux,vscode,&theme=light) <br> ![habilities](https://skillicons.dev/icons?i=java,postgresql,mongo&theme=light) |
+| Habilities            | ![habilities](https://skillicons.dev/icons?i=html,css,js,react,next,python,supabase,mysql,linux,vscode,&theme=light) <br> ![habilities](https://skillicons.dev/icons?i=java,postgresql,mongo,electron,&theme=light) |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------|
-| Currently Learning    | ![habilities](https://skillicons.dev/icons?i=ts,spring,electron&theme=light)                       |
-| Future Interests      | ![habilities](https://skillicons.dev/icons?i=nodejs,express&theme=light)                           |
+| Currently Learning    | ![habilities](https://skillicons.dev/icons?i=ts,angular,express&theme=light)                       |
+| Future Interests      | ![habilities](https://skillicons.dev/icons?i=nodejs,spring&theme=light)                           |
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Muciri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
