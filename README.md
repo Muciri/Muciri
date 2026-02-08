@@ -20,10 +20,10 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilinho_0135)
 
 ## 👩🏻‍💻 Tech Stack 
-| Habilities            | ![habilities](https://skillicons.dev/icons?i=html,css,js,react,next,python,supabase,mysql,linux,vscode,&theme=light) <br> ![habilities](https://skillicons.dev/icons?i=java,postgresql,mongo,electron,&theme=light) |
+| Habilities            | ![habilities](https://skillicons.dev/icons?i=html,css,js,react,next,python,supabase,mysql,linux,vscode,&theme=light) <br> ![habilities](https://skillicons.dev/icons?i=java,postgresql,electron,ts,angular,&theme=light) |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------|
-| Currently Learning    | ![habilities](https://skillicons.dev/icons?i=ts,angular,express,spring&theme=light)                       |
-| Future Interests      | ![habilities](https://skillicons.dev/icons?i=nodejs&theme=light)                           |
+| Currently Learning    | ![habilities](https://skillicons.dev/icons?i=spring,express&theme=light)                          |
+| Future Interests      | ![habilities](https://skillicons.dev/icons?i=nodejs,scss&theme=light)                           |
 
 <div align="center">
     <img height=170 src="https://github-readme-stats-pink-rho-97.vercel.app/api?username=Muciri&show_icons=true&theme=dark"/>
