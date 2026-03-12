@@ -22,7 +22,7 @@
 ## 👩🏻‍💻 Tech Stack 
 | Habilities            | ![habilities](https://skillicons.dev/icons?i=html,css,js,react,next,python,supabase,mysql,linux,vscode,&theme=light) <br> ![habilities](https://skillicons.dev/icons?i=java,postgresql,electron,ts,angular,&theme=light) |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------|
-| Currently Learning    | ![habilities](https://skillicons.dev/icons?i=spring,express&theme=light)                          |
+| Currently Learning    | ![habilities](https://skillicons.dev/icons?i=spring,kotlin&theme=light)                          |
 | Future Interests      | ![habilities](https://skillicons.dev/icons?i=nodejs,scss&theme=light)                           |
 
 <div align="center">
