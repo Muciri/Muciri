@@ -26,8 +26,8 @@
 | Future Interests      | ![habilities](https://skillicons.dev/icons?i=nodejs,scss&theme=light)                           |
 
 <div align="center">
-    <img height=170 src="https://github-readme-stats-pink-rho-97.vercel.app/api?username=Muciri&show_icons=true&theme=dark"/>
-    <img height=170 src="https://github-readme-stats-pink-rho-97.vercel.app/api/top-langs/?username=Muciri&layout=compact&theme=dark"/>
+    <img height=170 src="https://github-readme-stats.vercel.app/api?username=Muciri&show_icons=true&theme=dark"/>
+    <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muciri&layout=compact&theme=dark"/>
 </div>
 
 <p align="center">
